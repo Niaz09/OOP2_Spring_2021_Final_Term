@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{709AB6DA-20EB-4F7C-BD3D-505F0B88E068}</ProjectGuid>
+    <ProjectGuid>{D0F4EE88-EA61-4F04-8047-B64A2E7973FE}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Account_Class_Final_01</RootNamespace>
-    <AssemblyName>Account_Class_Final_01</AssemblyName>
+    <RootNamespace>Account_Class_Abstraction_Final_00</RootNamespace>
+    <AssemblyName>Account_Class_Abstraction_Final_00</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -44,9 +44,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Account.cs" />
+    <Compile Include="Overdraft.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Transaction.cs" />
+    <Compile Include="Special_Savings_Account.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
