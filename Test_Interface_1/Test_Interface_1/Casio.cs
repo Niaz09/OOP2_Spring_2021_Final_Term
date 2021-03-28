@@ -9,7 +9,7 @@ namespace Test_Interface_1
     class Casio : Calculator, BasicCalculatorInterface, ScientififcCalculatorInterface
     {
         public Casio() { }
-        public Casio(string name, string model)
+        public Casio(string name, string model) : base(name, model)
         {
             Name = Name;
             Model = Model;

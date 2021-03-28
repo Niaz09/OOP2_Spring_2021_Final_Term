@@ -9,7 +9,7 @@ namespace Test_Interface_1
     class Citizen : Calculator, BasicCalculatorInterface
     {
         public Citizen() { }
-        public Citizen(string name, string model)
+        public Citizen(string name, string model):base(name,model)
         {
             Name = name;
             Model = model;

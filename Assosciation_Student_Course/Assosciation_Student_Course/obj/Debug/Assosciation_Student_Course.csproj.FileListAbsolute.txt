@@ -1,0 +1,7 @@
+C:\Users\Preeti Rahman\Desktop\C Sharp Final Term Codes\Assosciation_Student_Course\Assosciation_Student_Course\bin\Debug\Assosciation_Student_Course.exe.config
+C:\Users\Preeti Rahman\Desktop\C Sharp Final Term Codes\Assosciation_Student_Course\Assosciation_Student_Course\bin\Debug\Assosciation_Student_Course.exe
+C:\Users\Preeti Rahman\Desktop\C Sharp Final Term Codes\Assosciation_Student_Course\Assosciation_Student_Course\bin\Debug\Assosciation_Student_Course.pdb
+C:\Users\Preeti Rahman\Desktop\C Sharp Final Term Codes\Assosciation_Student_Course\Assosciation_Student_Course\obj\Debug\Assosciation_Student_Course.csprojAssemblyReference.cache
+C:\Users\Preeti Rahman\Desktop\C Sharp Final Term Codes\Assosciation_Student_Course\Assosciation_Student_Course\obj\Debug\Assosciation_Student_Course.csproj.CoreCompileInputs.cache
+C:\Users\Preeti Rahman\Desktop\C Sharp Final Term Codes\Assosciation_Student_Course\Assosciation_Student_Course\obj\Debug\Assosciation_Student_Course.exe
+C:\Users\Preeti Rahman\Desktop\C Sharp Final Term Codes\Assosciation_Student_Course\Assosciation_Student_Course\obj\Debug\Assosciation_Student_Course.pdb
