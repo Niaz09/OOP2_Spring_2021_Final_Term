@@ -10,6 +10,11 @@ namespace Test_Interface_2
     {
         static void Main(string[] args)
         {
+            CurrentAccount c1 = new CurrentAccount("Niaz", "7865", 50000);
+            SavingsAccount c2 = new SavingsAccount("Rahim", "5643", 50000);
+            OverdraftAccount c3 = new OverdraftAccount("Zidan", "2409", 50000);
+
+
         }
     }
 }

@@ -18,7 +18,7 @@ namespace Test_Interface_2
             AccNo = accNo;
             AccBalance = accBalance;
         }
-        public void ShowInfo()
+        virtual public void ShowInfo()
         {
             Console.WriteLine("Account Name: " + AccName);
             Console.WriteLine("Account No.: " + AccNo);
